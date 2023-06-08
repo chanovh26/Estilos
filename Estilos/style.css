@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+
+article.carta{
+    background-color: cornsilk;
+    width: 165px;
+}
+
+footer{
+    background-color: pink;
+    width: 200px;
+}
